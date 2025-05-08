@@ -14,15 +14,15 @@ function Contact() {
           {/* Contact Info */}
           <div>
             <h3 className="mb-4 text-2xl font-semibold">Contact Information</h3>
-            <p><strong>Email:</strong> ravindu@example.com</p>
-            <p><strong>Phone:</strong> +94 71 234 5678</p>
+            <p><strong>Email:</strong> ravinduvidurusinghe@gmail.com</p>
+            <p><strong>Phone:</strong> +94 71 158 4321</p>
             <p><strong>Location:</strong> Colombo, Sri Lanka</p>
 
             <div className="flex gap-4 mt-6">
-              <a href="#" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-facebook-f"></i></a>
-              <a href="#" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-twitter"></i></a>
-              <a href="#" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-linkedin-in"></i></a>
-              <a href="#" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-github"></i></a>
+              <a href="https://www.facebook.com" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-facebook-f"></i></a>
+              <a href="https://x.com/?lang=en" className="text-xl text-blue-400 hover:text-white"><i className="fa-brands fa-x-twitter"></i></a>
+              <a href="https://www.linkedin.com/feed/" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-linkedin-in"></i></a>
+              <a href="https://github.com/" className="text-xl text-blue-400 hover:text-white"><i className="fab fa-github"></i></a>
             </div>
           </div>
 

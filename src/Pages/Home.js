@@ -25,13 +25,13 @@ function Home() {
         </div>
 
         <div className="flex gap-4 mt-6">
-          <a href="#" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
+          <a href="https://www.facebook.com/" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
             <i className="fab fa-facebook-f"></i>
           </a>
-          <a href="#" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
-            <i className="fab fa-twitter"></i>
+          <a href="https://x.com/?lang=en" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
+            <i className="fa-brands fa-x-twitter"></i>
           </a>
-          <a href="#" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
+          <a href="https://www.linkedin.com/feed/" className="w-10 h-10 border border-blue-400 text-blue-400 rounded-full flex justify-center items-center hover:bg-blue-400 hover:text-[#081b29]">
             <i className="fab fa-linkedin-in"></i>
           </a>
         </div>
